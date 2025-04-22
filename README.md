@@ -11,6 +11,20 @@
 - 🛡️ Connexion sécurisée via Supabase
 - 🧩 Composants modulaires et stylés via StyleSheet
 
+## 📱 Tester l'application
+1. Télécharger Expo Go
+Pour tester l'application sur votre téléphone, vous pouvez télécharger gratuitement Expo Go :
+
+📲 Android (Play Store)
+
+📲 iOS (App Store)
+
+Ensuite, scannez le QR code affiché après npx expo start.
+
+2. Utiliser un simulateur
+Si vous préférez tester via un simulateur Android ou iOS, installez Android Studio ou Xcode et configurez un émulateur. Expo détectera automatiquement vos simulateurs disponibles.
+
+
 ## 📦 Installation
 
 1. **Cloner le dépôt**
